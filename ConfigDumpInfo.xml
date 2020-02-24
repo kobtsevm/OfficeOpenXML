@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.9">
+	<ConfigVersions>
+		<Metadata name="CommonModule.OOXMLКлиент" id="dfaf8ce1-3020-4b8b-aa18-0e9d57758045" configVersion="f8f065d4f69c964488a0dc9ba0d6c54000000000"/>
+		<Metadata name="CommonModule.OOXMLКлиент.Module" id="dfaf8ce1-3020-4b8b-aa18-0e9d57758045.0" configVersion="4547af916ce7b74a975903133b1730c700000000"/>
+		<Metadata name="CommonModule.OOXMLСервер" id="01153648-84fc-4ad7-b7f9-729f6ab87572" configVersion="63ac94affe023b42bc07d2714406bb6100000000"/>
+		<Metadata name="CommonModule.OOXMLСервер.Module" id="01153648-84fc-4ad7-b7f9-729f6ab87572.0" configVersion="afd6627ba7bf4540b2042d1eb2ce06ba00000000"/>
+		<Metadata name="CommonTemplate.ПФ_DOC_Макет" id="bbd3b85b-f271-4ac1-9a92-1d0d2b710b87" configVersion="4c494601d58ced4691eb9b049b65fbb600000000"/>
+		<Metadata name="CommonTemplate.ПФ_DOC_Макет.Template" id="bbd3b85b-f271-4ac1-9a92-1d0d2b710b87.0" configVersion="a350ee5062079a42b06ea1c50ef9689200000000"/>
+		<Metadata name="CommonTemplate.ПФ_DOC_МакетВторой" id="bd7d127e-065e-48d2-af8c-74981c22b8cd" configVersion="55a78de04f31c44ca3ffe181a9b7c9f300000000"/>
+		<Metadata name="CommonTemplate.ПФ_DOC_МакетВторой.Template" id="bd7d127e-065e-48d2-af8c-74981c22b8cd.0" configVersion="3d551cae2e6fc34592270a65520e9bf300000000"/>
+		<Metadata name="Configuration.Конфигурация" id="aaca2823-89fe-41e5-aa65-3637652eeb5d" configVersion="c3ad5440a53d3a40beb1240ea4639cee00000000"/>
+		<Metadata name="Language.Русский" id="791a04ea-696f-4f8a-8942-f43d4f7d43f8" configVersion="44ce900308f97046bb2c69c27b85240600000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
